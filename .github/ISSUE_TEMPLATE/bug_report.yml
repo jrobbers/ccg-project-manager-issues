@@ -55,11 +55,7 @@ body:
       required: false
   - type: textarea
     id: screenshots
-    attributes:
-      label: Screenshots
-      description: If applicable, add screenshots or screen recordings.
-      placeholder: "Paste screenshots here..."
-    validations:
+    attributes
       required: false
   - type: textarea
     id: additional
